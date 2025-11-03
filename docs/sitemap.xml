@@ -1,180 +1,66 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/404.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/CONTRIBUTING.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/articles/case-study-1,2,3.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/articles/dietaryindex.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/articles/index.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/articles/validation.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/authors.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/index.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/ACS2020_V1.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/ACS2020_V2.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/AHEI.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/AHEIP.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/AHEIP_BLOCK.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/AHEI_BLOCK.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/AHEI_DHQ3.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/AHEI_F_ASA24.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/AHEI_M_ASA24.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/AHEI_NHANES_FPED.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/AHEI_NHANES_MPED.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/DASH.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/DASHI.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/DASHI_NHANES_FPED.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/DASHI_NHANES_MPED.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/DASH_ASA24.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/DASH_BLOCK.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/DASH_DHQ3.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/DASH_NHANES_FPED.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/DASH_NHANES_MPED.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/DII.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/DII_ASA24.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/DII_BLOCK.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/DII_DHQ3.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/DII_NHANES_FPED.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/DII_NHANES_MPED.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/HEI2015.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/HEI2015_ASA24.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/HEI2015_BLOCK.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/HEI2015_DHQ3.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/HEI2015_NHANES_FPED.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/HEI2015_NHANES_MPED.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/HEI2020.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/HEI2020_ASA24.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/HEI2020_NHANES_FPED.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/HEI2020_NHANES_MPED.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/HEI2020_TODDLERS_ASA24.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/HEI2020_V2.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/MED.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/MEDI.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/MEDI_NHANES_FPED.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/MEDI_NHANES_MPED.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/MEDI_V2.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/MED_ASA24.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/MED_BLOCK.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/MED_DHQ3.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/MED_NHANES_FPED.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/MED_NHANES_MPED.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/PHDI.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/PHDI_V2.html</loc>
-  </url>
-  <url>
-    <loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/index.html</loc>
-  </url>
+<urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/404.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/CONTRIBUTING.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/articles/case-study-1,2,3.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/articles/dietaryindex.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/articles/index.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/articles/validation.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/authors.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/index.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/ACS2020_V1.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/ACS2020_V2.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/AHEI.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/AHEIP.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/AHEIP_BLOCK.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/AHEIP_DHQ3.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/AHEI_BLOCK.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/AHEI_DHQ3.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/AHEI_F_ASA24.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/AHEI_M_ASA24.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/AHEI_NHANES_FPED.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/AHEI_NHANES_MPED.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/DASH.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/DASHI.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/DASHI_NHANES_FPED.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/DASHI_NHANES_MPED.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/DASH_ASA24.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/DASH_BLOCK.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/DASH_DHQ3.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/DASH_NHANES_FPED.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/DASH_NHANES_MPED.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/DII.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/DII_ASA24.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/DII_BLOCK.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/DII_DHQ3.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/DII_NHANES_FPED.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/DII_NHANES_MPED.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/DI_GM.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/DI_GM_NHANES_FPED.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/DI_GM_NHANES_MPED.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/HEI2015.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/HEI2015_ASA24.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/HEI2015_BLOCK.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/HEI2015_DHQ3.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/HEI2015_NHANES_FPED.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/HEI2015_NHANES_MPED.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/HEI2020.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/HEI2020_ASA24.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/HEI2020_NHANES_FPED.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/HEI2020_NHANES_MPED.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/HEI2020_TODDLERS_ASA24.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/HEI2020_V2.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/MED.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/MEDI.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/MEDI_NHANES_FPED.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/MEDI_NHANES_MPED.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/MEDI_V2.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/MED_ASA24.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/MED_BLOCK.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/MED_DHQ3.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/MED_NHANES_FPED.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/MED_NHANES_MPED.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/PHDI.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/PHDI_V2.html</loc></url>
+<url><loc>https://jamesjiadazhan.github.io/dietaryindex_manual/reference/index.html</loc></url>
 </urlset>
+
