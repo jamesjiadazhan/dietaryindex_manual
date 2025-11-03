@@ -1,0 +1,11 @@
+pandoc: 3.2.1
+pkgdown: 2.1.1
+pkgdown_sha: ~
+articles:
+  case-study-1,2,3: case-study-1,2,3.html
+  dietaryindex: dietaryindex.html
+  validation: validation.html
+last_built: 2025-11-03T03:17Z
+urls:
+  reference: https://jamesjiadazhan.github.io/dietaryindex_manual/reference
+  article: https://jamesjiadazhan.github.io/dietaryindex_manual/articles
